@@ -7,8 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ejs": "2.3.3",
-    "express": "4.13.3"
+    "csvtojson": "^0.4.6",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.9"
   },
   "engines": {
     "node": "0.12.7"
